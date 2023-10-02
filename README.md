@@ -5,5 +5,6 @@ Transportation Management System (TMS) uses parts and packaging information to i
 ## Solution
 I used Google, StackOverflow, and ChatGPT to build a Python/Selenium code that automates this task. Selenium is capable of web page interaction such as reading and clicking while Python acts as a decision maker. Together, they perform the task without tiring and without human error. I also turned this into an executable file so others at my company can use it.
 ## Description
-### Parts and Packaging Approval Dashboard
 ![image](https://github.com/jasonpetersops/approvaldestroyer/assets/146475554/fedc5c75-38d7-42aa-a93b-07b09a8beea9)
+<br>
+This is the parts and packaging approval dashboard. The data values should not be abnormally high and the data values should not be blank. If the option for a secondary pallet is switched on, then the secondary pallet ID should contain the identifier SPLT. Lastly, only data that has been requested by SidhdeeBhase should be approved. If any of these components are unacceptable, then the row should be skipped for later review.
